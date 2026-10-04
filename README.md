@@ -1,6 +1,6 @@
 # Kanban Board (Full Stack)
 
-![CI](../../actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/sudeep1305k/kanban-board/actions/workflows/ci.yml/badge.svg)
 
 A full stack task board where each user manages private tasks across **To Do / In Progress / Done** columns using drag and drop.
 
